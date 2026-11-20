@@ -1,0 +1,18 @@
+def durchgezoggen():
+    print("**********")
+
+
+def Seiten():
+    print("*        *")
+
+
+
+durchgezoggen()
+Seiten()
+Seiten()
+Seiten()
+Seiten()
+Seiten()
+Seiten()
+Seiten()
+durchgezoggen()
