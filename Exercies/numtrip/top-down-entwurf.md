@@ -1,0 +1,1 @@
+![](C:\Users\PCPRET\Downloads\WhatsApp Image 2026-11-20 at 16.07.38.jpeg)
