@@ -18,5 +18,6 @@ for zelle in board[0]:
     print(' -', end='')
 print(' ')
 
+
 x_coordinate = int(input("Was ist die x-Koordinate der Zelle, die du ändern möchtest? (0-4): "))
 y_coordinate = int(input("Was ist die y-Koordinate der Zelle, die du ändern möchtest? (0-4): "))
